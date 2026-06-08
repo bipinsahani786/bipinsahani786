@@ -1,104 +1,242 @@
+<!-- ========================= -->
+
+<!--      PREMIUM HEADER       -->
+
+<!-- ========================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:050F2C&height=280&section=header&text=Bipin%20Sahani&fontSize=75&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20SaaS%20Architect%20%7C%20Founder%20@%20Zytrixon%20Tech&descAlignY=60&descAlign=50" width="100%"/>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;SaaS+Architect;Founder+of+Zytrixon+Tech;Laravel+%7C+React+%7C+Next.js;Building+Healthcare+%26+Business+Software;Turning+Ideas+Into+Scalable+Products" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=bipinsahani786&label=PROFILE+VIEWS&color=38B2AC&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/bipinsahani786?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/bipinsahani786?style=for-the-badge"/>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+I'm **Bipin Sahani**, a Full Stack Developer, SaaS Architect, and Founder of **Zytrixon Tech**.
+
+I specialize in building scalable software products that solve real-world business challenges across healthcare, pharmacy, laboratory management, e-commerce, billing, and enterprise automation.
+
+My focus is not just writing code—it's designing systems that scale, perform, and create measurable business impact.
+
+---
+
+# 🚀 What I Do
+
+### 🏥 Healthcare Software
+
+* Laboratory Management Systems
+* Pathology Software
+* Patient Management
+* Diagnostic Workflows
+* Online Report Delivery
+
+### 💊 Pharmacy Solutions
+
+* Inventory Management
+* Billing & GST
+* Purchase Management
+* Supplier Management
+* Analytics & Reporting
+
+### 🛒 E-Commerce Platforms
+
+* Multi Vendor Systems
+* Wallet & Cashback Engines
+* Logistics Integrations
+* Payment Gateways
+* Order Management
+
+### ⚡ Business Automation
+
+* ERP Solutions
+* CRM Platforms
+* Billing Software
+* Workflow Automation
+* SaaS Development
+
+---
+
+# 🏢 Zytrixon Tech
+
+Building modern software solutions for businesses.
+
+### Core Services
+
+✔ SaaS Product Development
+
+✔ Healthcare Software Development
+
+✔ E-Commerce Platforms
+
+✔ Inventory & Billing Solutions
+
+✔ ERP & CRM Systems
+
+✔ API Integrations
+
+✔ Cloud Infrastructure
+
+✔ Custom Enterprise Applications
+
+---
+
+# 🚀 Featured Products
+
+## 💊 Dawadukkan
+
+Comprehensive Pharmacy Management SaaS
+
+* Inventory Management
+* GST Billing
+* Sales & Purchase Tracking
+* Customer Management
+* Analytics Dashboard
+* Multi User Access
+
+---
+
+## 🔬 Ojaselab
+
+Modern Laboratory Management Platform
+
+* Patient Registration
+* Sample Tracking
+* Test Management
+* Report Generation
+* Doctor Management
+* SMS Notifications
+
+---
+
+## 🛒 Enterprise E-Commerce Platform
+
+Scalable Multi-Vendor Infrastructure
+
+* Product Variations
+* Wallet System
+* Cashback Engine
+* Vendor Management
+* Dynamic Pricing
+* Logistics Integration
+
+---
+
+# ⚙️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,react,nextjs,svelte,javascript,typescript,mysql,postgres,docker,redis,linux,git,github,vscode" />
+</p>
+
+---
+
+# 🎯 Current Focus
+
+* Multi Tenant SaaS Architecture
+* Healthcare Technology
+* High Availability Systems
+* Docker Infrastructure
+* Advanced Database Design
+* AI Assisted Business Software
+* Performance Optimization
+* Enterprise Automation
+
+---
+
+# 📊 GitHub Analytics
+
 <div align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=bipinsahani786&label=Profile%20Views&color=38B2AC&style=flat" alt="Profile Views" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bipinsahani786&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipinsahani786&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 <br>
 
 <div align="center">
-  <!-- Animated Typing Text -->
-  <a href="https://github.com/bipinsahani786">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Bipin+Sahani+👋;Full+Stack+Developer;Building+Multi-tenant+SaaS+Architectures;Expert+in+Laravel,+React+%26+Next.js;Founder+of+Zytrixon+Tech" alt="Typing SVG" />
-  </a>
-</div>
 
----
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=bipinsahani786&theme=tokyonight&hide_border=true"/>
 
-### 🚀 About Me
-
-Main ek passionate **Full Stack Developer** hoon jise scalable applications, multi-tenant SaaS platforms, aur robust APIs banana pasand hai. Main frontend se lekar backend aur database management tak end-to-end solutions develop karta hoon.
-
-- 🏢 Founder & Operator at **Zytrixon Tech**
-- 💻 Building projects like **Dawadukkan** (Pharmacy Management SaaS)
-- 🌱 Currently deep diving into **Advanced Schema Optimizations & Multi-database structures**
-- 💬 Ask me about **PHP, Laravel, Next.js, Svelte, and Tailwind CSS**
-- 📫 Reach out to me at: **[bipinsahani786@gmail.com](mailto:bipinsahani786@gmail.com)**
-
----
-
-### 💻 Tech Stack & Tools
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  
-  <br>
-  
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  
-  <br>
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  
-  <br>
-
-  <!-- Database & ORM -->
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize" />
-  
-  <br>
-
-  <!-- DevOps & Tools -->
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bipinsahani786&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="Bipin's Trophies" />
-</div>
-
----
-
-### 📈 GitHub Analytics & Activity Graphs
-
-<div align="center">
-  <!-- Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=bipinsahani786&show_icons=true&theme=algolia&hide_border=true&count_private=true" alt="Bipin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipinsahani786&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 <br>
 
-<div align="center">
-  <!-- Animated Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bipinsahani786&bg_color=050F2C&color=00AEEF&line=00AEEF&point=FFFFFF&area=true&hide_border=true" alt="Bipin's Activity Graph" width="100%" />
-</div>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bipinsahani786&theme=react-dark&hide_border=true"/>
 
 ---
 
-### 🤝 Let's Connect
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bipin-sahani-95baa4182/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:bipinsahani786@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/bipinsahani786" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<img src="https://github-profile-trophy.vercel.app/?username=bipinsahani786&theme=algolia&row=2&column=4&no-frame=true"/>
 </p>
+
+---
+
+# 📈 Development Insights
+
+<p align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bipinsahani786&theme=github_dark"/>
+</p>
+
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bipinsahani786&theme=github_dark"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bipinsahani786&theme=github_dark"/>
+</p>
+
+---
+
+# 💡 Development Philosophy
+
+> Software should not only work — it should scale.
+
+I focus on:
+
+* Clean Architecture
+* Maintainable Code
+* Business-Oriented Solutions
+* Performance First Design
+* Security Best Practices
+* Long-Term Scalability
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="mailto:bipinsahani786@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/bipinsahani786">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/bipin-sahani-95baa4182/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Building Products • Solving Problems • Scaling Businesses
+
+Founder @ Zytrixon Tech
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:050F2C&height=120&section=footer"/>
